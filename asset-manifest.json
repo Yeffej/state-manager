@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todo-machine/state-manager/static/css/main.9ad6b428.css",
+    "main.js": "/todo-machine/state-manager/static/js/main.b11745d0.js",
+    "index.html": "/todo-machine/state-manager/index.html",
+    "main.9ad6b428.css.map": "/todo-machine/state-manager/static/css/main.9ad6b428.css.map",
+    "main.b11745d0.js.map": "/todo-machine/state-manager/static/js/main.b11745d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ad6b428.css",
+    "static/js/main.b11745d0.js"
+  ]
+}
